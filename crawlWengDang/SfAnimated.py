@@ -28,11 +28,11 @@ def getUrl(indexUrl):
     title = browser.title.split(',')[0]  #获取漫画名
     mkDir(title)
     #找到该漫画每一集的url
-    comicList = browser.find_elements_by_class_name('comic_Serial_list')
-    Urls = comicList.find_elements_by_tag_name('a')
-    for Url in Urls:
-        pictureUrl.append(Url.get_attribute('href'))
-    # 获得每集url
+    for comicList in browser.find_elements_by_class_name('comic_Serial_list'):
+        Urls = comicList.find_elements_by_tag_name('a')
+        for Url in Urls:
+            pictureUrl.append(Url.get_attribute('href'))
+        # 获得每集url
     browser.quit()
     Comics = dict(name = title,urls = pictureUrl)
     return Comics
@@ -61,8 +61,8 @@ def getPictureUrl(Comics):
             filename = title+"/"+browser.title.split("-")[1]+"/"+str(tempNum)+'.png'
             savePicture(filename,PictureUrl)
             nextpage.click()
-        browser.quit()
         print("当前章节\t{}  下载完毕".format(browser.title))
+        browser.quit()
 #获取每一集中具体每一页漫画的url，并调用savePicture()函数保存
 def Main():
     url = input("输入漫画首地址：")
