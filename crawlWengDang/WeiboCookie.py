@@ -38,7 +38,6 @@ def Save(cookie):
     with open("D:/python/crawl/crawlWengDang/WeiboCookie/cookies.txt","a") as f:
         f.write(cookie)
         f.write('\n')
-
 if __name__ == "__main__":
     with open("D:/python/crawl/crawlWengDang/WeiboCookie/UserInfor.txt","r") as f:
         lines = f.readlines()
