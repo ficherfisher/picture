@@ -2,11 +2,22 @@
 import requests
 import re
 import os
-save_dir='E:/pycharm/crawl/spider/baidu_picture/baidutu/'  #定义全局变量
+import random
+import time
+save_dir='C:/Users/peng/Pictures/Camera Roll/'  #定义全局变量
 dirnum = 0
 def visitdir(path):
     dirnum = len(os.listdir(path))
     return dirnum
+
+def del_file(path):
+    ls = os.listdir(path)
+    for i in ls:
+        c_path = os.path.join(path, i)
+        if os.path.isdir(c_path):
+            del_file(c_path)
+        else:
+            os.remove(c_path)
 
 def baidtu_uncomplie(url):
     res = ''
@@ -86,8 +97,6 @@ def get_images(json):
 
 
 def save_image(item,count):
-
-
     try:
         response = requests.get(item.get('image'))
         if response.status_code == 200:
@@ -115,13 +124,17 @@ def main(pageIndex,count,string):
 #主函数
 
 if __name__=='__main__':
+    del_file(save_dir)
     if not os.path.exists(save_dir):
         os.mkdir(save_dir)
     count=visitdir(save_dir)
     #生成文件夹
-    string = "高清动漫壁纸"
-
-    for i in range(1,3):
+    string = "高清壁纸"
+    keyword = ["动漫","唯美","风景","星空","美女","宇宙"]
+    string = keyword[random.randint(0,5)] + string
+    for i in range(1,2):
         count=main(i,count,string)  #循环抓取图片调用main函数
 
-    print('total:',count)
+    print('total:',count,"thume:" ,string)
+    time.sleep(2)
+
