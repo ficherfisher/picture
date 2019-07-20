@@ -9,6 +9,7 @@ temps = soup.find_all(attrs={"class":"swiper-slide"})
 count = 0
 for a in temps:
     pictureUrl = a.find('img').get('lazysrc')
+    print(pictureUrl)
     base_dir = os.getcwd()
     count = count + 1
     with open(base_dir + "/xiaohua Data/" + str(count) + ".jpg","wb") as file:

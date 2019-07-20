@@ -104,7 +104,7 @@ def save_image(item,count):
             if not os.path.exists(file_path):
                 with open(file_path, 'wb') as f:  #文件指针f
                     f.write(response.content)
-                    print('succuer:',count,'.jpg')
+                    print('succuer:',count + 1,'.jpg')
             else:
                 print('Already Downloaded', file_path)
     except requests.ConnectionError:

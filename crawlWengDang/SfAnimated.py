@@ -1,4 +1,4 @@
-from selenium import webdriver
+﻿from selenium import webdriver
 import requests
 import os
 Dirnum = 0
@@ -53,8 +53,8 @@ def getPictureUrl(Comics):
         mkDir(title+"/"+browser.title.split("-")[1])
         #获取漫画具体的哪一集，并创建文件夹
         pageNum = len(browser.find_elements_by_tag_name('option'))
-        #获取漫画某一集具体的图片页数
-        nextpage = browser.find_element_by_xpath('//*[@id="AD_j1"]/div/a[4]')
+        #获取漫画某一话具体的图片页数
+        nextpage = browser.find_element_by_xpath('//*[@id="AD_j1"]/div/a[4]')#新的搜索标签的方法，在后文有详细介绍
         #找到H5中的下一页，Javascript的语法
         for tempNum in range(pageNum):
             PictureUrl = browser.find_element_by_id('curPic').get_attribute('src')
