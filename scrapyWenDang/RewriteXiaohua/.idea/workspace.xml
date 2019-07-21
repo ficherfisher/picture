@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffec220f-08bb-4608-b7ff-50d72ffe8523" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../crawlWengDang/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/RewriteXiaohua.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/ramon llull校花白扬.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/一中校花原雅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海东海职业技术学院校花姜瑜婷.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海交通大学校花唐雨乔.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海司法学院校花叶倩菲.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海外国语大学校花张君婉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海大学校花史翌竹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海大学校花项婧妍.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海工会管理职业学院校花张逸斐.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海戏剧学院校花高嘉怡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海立信会计金融学院校花张熙敏.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/上海财经大学校花徐逸岑.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/东北大学校花岳亚娉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/东北师范大学校花尹思凝.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/东南大学校花王文斐.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/东埔中学校花安娜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/东夏初级中学校花吕凤玲.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/东莞职业技术学院校花郑涵之.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中国人民公安大学校花许南.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中国传媒大学校花刘郁文.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中国传媒大学校花孙蜜唯.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中国传媒校花蔡青青.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中国农业大学校花贡铭.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中国民航大学校花张金玉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中国音乐学院校花马佳雯.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中央戏剧学院校花刘垚昕.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中央民族大学校花蒋医韩.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中小校花罗落.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/中山大学校花李.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/于成都中医大学校花航妹儿.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/云南省大理州弥渡弥城中学校花校花杨存涵.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/云南省大理州弥渡弥城中学校花王晓瑶.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/兰州交通大学校花梁楚欣.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/内蒙古师范大学校花马叙南.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/内蒙古美术职业学院校花薛小妹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/冷水江四中校花刘姝邑.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/初中校花刘亚鑫.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京交通大学校花高雅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京城市学院校花张懿格.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京外国语大学校花裴紫绮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京大学校花肖真子.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京师范大学校花陈嘉扬.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京现代音乐学院校花王丹妮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京理工大学珠海学院校花韦若愚.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京电影学院校花娜吉玛.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京电影学院校花高溜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京电影学院表演学院表演系校花杨幂.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京联合大学校花刘娅希.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京联合大学校花惠婉乔.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京舞蹈学院校花汤金玉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北京财贸职业学院校花刘莹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北湖实验校花刘麻敏.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/北湖实验校花杨雨萱.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/华东大学校花赵梦洁.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南京信息工程大学滨江学院校花Luna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南京师范大学校花钱瑾.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南京晓庄学院校花宋婉清.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南京艺术学院校花刘艾诗.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南信大附中校花陈雨珊.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南开大学校花廖影.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南昌大学校花曾阳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南昌教育学院校花卞佳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南溪一中外国语实验学校校花王喜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/南阳师范学院校花史晓洁.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/博望中学校花陈璐.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/厦门大学校花江夏天.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/厦门大学校花袁翊婧.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/厦门理工学院校花袁慧.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/厦门美术学院校花何旋遐.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/台湾朝阳科技大学校花陈静怡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/合肥工业大学校花傅燕妮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/吉林大学珠海学院校花余文丽.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/同济大学校花陈艺嘉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/哈尔滨商业大学校花谢晓涵.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/唐山师范学院校花yoyo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/商丘师范学院校花常露瑶.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/商丘师范学院校花王文文.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/四中校花莫雨凡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/四川一中校花欧阳宇.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/四川天一学院校花张筱雪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/四川音乐学院校花刘允夕.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/四川音乐学院校花白大纯.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/多伦多大学校花吴子妍.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连交通大学校花李海蕾.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连国际舞蹈学校校花王钰萌.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连外国语大学校花文晶.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连外国语大学校花高梦馨.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连大学校花马菲比.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连工业大学校花宋悦萍.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连海事大学校花何秋原.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连海事大学校花杨靖怡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/大连理工大学校花许考拉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/天津商业大学校花钟小帅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/天津外国语大学校花李雨蔓.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/天津外国语大学校花邓紫薇.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/天津大学校花王璐.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/天津工业大学校花孙忆雯.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/天津工业大学校花许可昕.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/天津财经大学校花卓娅祺.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/威县二中校花葛秋月.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/安徽六安漫中校花张鑫宇.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/安徽农业大学校花林晓晓.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/安徽省亳州市辛集中心中学校花刘雪晴.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/安阳工学院校花王攀.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/官舟中学校花伊伊.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山东交通学院校花张丹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山东外事翻译学院校花韩汶霏.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山东大学校花cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山东师范大学校花橘夏（补充）.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山东现代学院校花周路露.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山东理工大学校花王馨梓.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山东理工管理学院校花张艺泓.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山东省新泰第一中学校花陈艾青.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山西医科大学校花王静思.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/山西长治县五中校花杜子怡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/师大校花倩倩.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/师范校花橘夏.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/常州幼儿师范学院校花顾梦婷.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/平山二中校花林淑怡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/平山第三中学校花马悦媛.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/平山青云小学校花陈榕烨.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东东软学院校花王莉雅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东会计职业学校校花妍儿.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东华文航空艺术学校校花林菲.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东外语外贸大学校花林甘祺.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东外语外贸大学校花殷小凤.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东工业大学校花冯宥恩.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东工业大学校花蒋申.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东普宁国贤校花钟丹丹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广东财经大学 校花罗晓盈.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广州华夏职业学院校花邓杏琳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广西农业职业技术学院校花刘俪晓.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广西农业职业技术学院校花覃罗莹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广西大学校花李思琪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广西大学校花韦玉玺.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/广西民族大学校花董瑶瑶.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/弥勒一中校花张艺琳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/徐州工程学院校花王李婷.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/成都体育学院校花杨帆.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/成都医学院校花陈泓羽.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/成都理工大学工程技术学院校花吴玉梅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/成都理工大学校花娟儿.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/成都理工大学校花王毛毛.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/成都职业技术学院校花杨萍.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/攀西绵阳南山国际学校校花董清忆.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/文光中心校花陈里佳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/文溪中学校花杨春月.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/文溪学校校花杨春月.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/新疆农业大学校花麦合丽娅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/新疆警察学院校花苏莉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/无校花李雪儿.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/无锡天一中学校花欧阳仪雪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/星海音乐学院校花包雨薇.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/星源初中校花廖炯炅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/晋州一中校花卢同笑.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/普陀职教校花汪雨婷.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/景德镇学院校花王丽华.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/桂林理工大学校花高慈姚.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/桥头胡中学校花胡菽尹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/武汉大学校花丁婷婷.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/武汉纺织大学校花胡美玲.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/武汉纺织大学校花黄滢.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/武汉音乐学院校花瑾颜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/死老中学校花卜婉妃.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/汕头大学校花陈美任.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/江西应用科技学院校花宋丹.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/江西省高安中学校花李瑞锐.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河东学校校花张雨涵.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河北北方学院校花小桃桃.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河北医科大学校花孙佳萌.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河北司法警官职业学院校花李玮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河北外国语职业学院校花郭露.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河北工业大学校花张招招.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河北工业校花张梦圆.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河北师范大学校花苏蓦染.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河北美术学院校花胡诗雨.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河南校花王小婷.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河南高中校花YOYO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/河大校花李含笑.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/洛阳科技职业学院校花范金瑞.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/浙江工业大学校花方柳柳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/浙江省平阳中学校花林俞婷.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/浙江财经大学校花冯瑶瑶.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/海南师范大学校花吴宣仪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/海口大成实验学校校花蔡微微.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/清华大学校花安妮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/清华大学校花安漓.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/清华大学校花谢辰星.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/温州大学校花汤以斯贴.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/港北一中校花卢将昌.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/湖北医药学院药护学院校花陈明.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/湖北师范大学校花杨安琪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/湖北艺术学院校花王媛茜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/湖南城市学院校花李淼.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/湖南师范大学校花王晓雅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/湖南长沙医学院校花张敏.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/烟台大学校花罗馨欣.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/燕山大学校花黄贝妮.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/田纳西大学校花陈嘉琦.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/石北中学校花龙家义.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/石室初中校花罗熠灵.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/石家庄科技大学校花孙亚尼.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/福建农林大学校花黄菱洁.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/秘密校花秘密.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/秦皇岛职业技术学院校花赵梦.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/美国密歇根州立大学校花李岳昕.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/聊城大学校花飞儿.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/舟山技师学院校花宋世杰.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/芷江师范校花滕之雅.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/苏州科技大学天平学院校花汤海澳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/英国谢菲尔德大学校花张雨晗.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/莫斯科大学校花杨娇娇.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/行健学院校花徐艳琛.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/西南科技大学校花李聪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/西南财经大学校花廖银玥.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/西南财经大学校花邹雪怡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/西安交通大学校花周冷昳.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/西安工程大学校花宗子祾.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/西澳大学校花高珺琰.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/贵州省黔西南州义龙一中校花李荣欣.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/越秀外国语学校校花pyh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/辽宁师范大学校花左卓.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/迫于中学校花阿达撒.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/鄞州职业高级中学校花翁川美.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/重庆市大学城第四中学校花岳雅兰.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/重庆文化艺术学院校花祁情.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/金中岱山校花娄佩帆.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/铁岭师范校花施玉.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/长安实验中学校花李媛媛.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/长春科技学院校花姜丹青.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/阜阳师范学院校花张艺荧.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/陕西科技大学校花左宸怡.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/集美大学校花浦樱.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/集美大学校花蔡丹琪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/集美大学校花闵雨.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/韶关市田家炳中学校花邓雯.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/香港城市大学校花陈俊如.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/马集中学校花马晓利.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/高中校花李聪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/高中校花王佳华.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/鹤壁职业技术学院校花谢诗雨.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/龙川一中初中部校花叶园苑.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RewriteXiaohua/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RewriteXiaohua/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RewriteXiaohua/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RewriteXiaohua/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RewriteXiaohua/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RewriteXiaohua/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RewriteXiaohua/spiders/xiaohua.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RunRewriteXiaohua.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy安装材料/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy安装材料/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy安装材料/.idea/scrapy安装材料.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy安装材料/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/CreateIpPool/CreateIpPool/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/CreateIpPool/CreateIpPool/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/CreateIpPool/CreateIpPool/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/CreateIpPool/CreateIpPool/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/CreateIpPool/CreateIpPool/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/CreateIpPool/CreateIpPool/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/CreateIpPool/CreateIpPool/spiders/createipPool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/CreateIpPool/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/Novel/Novel/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/Novel/Novel/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/Novel/Novel/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/Novel/Novel/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/Novel/Novel/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/Novel/Novel/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/Novel/Novel/spiders/novel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/Novel/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/RewriteXiaoHua/RewriteXiaoHua/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/RewriteXiaoHua/RewriteXiaoHua/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/RewriteXiaoHua/RewriteXiaoHua/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/RewriteXiaoHua/RewriteXiaoHua/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/RewriteXiaoHua/RewriteXiaoHua/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/RewriteXiaoHua/RewriteXiaoHua/spiders/Xiaohua.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/RewriteXiaoHua/RewriteXiaoHua/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/RewriteXiaoHua/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/XiaoHua.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../crawlWengDang/XiaoHua.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crawlWengDang/xiaohua Data/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../crawlWengDang/xiaohua Data/6.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RewriteXiaohua/spiders/xiaohua.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RewriteXiaohua/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="e#194#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RunRewriteXiaohua.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RewriteXiaohua/items.py" />
+        <option value="$PROJECT_DIR$/RewriteXiaohua/settings.py" />
+        <option value="$PROJECT_DIR$/RewriteXiaohua/pipelines.py" />
+        <option value="$PROJECT_DIR$/RunRewriteXiaohua.py" />
+        <option value="$PROJECT_DIR$/RewriteXiaohua/spiders/xiaohua.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/RewriteXiaohua.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-64" />
+    <option name="y" value="5" />
+    <option name="width" value="1030" />
+    <option name="height" value="999" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RewriteXiaohua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RewriteXiaohua" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../crawlWengDang" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.RunRewriteXiaohua">
+    <configuration name="RunRewriteXiaohua" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RewriteXiaohua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RunRewriteXiaohua.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="RewriteXiaohua" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\software\pycharm\python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.RunRewriteXiaohua" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RunRewriteXiaohua" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffec220f-08bb-4608-b7ff-50d72ffe8523" name="Default Changelist" comment="" />
+      <created>1563675069912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563675069912</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1367239" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39812332" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.536193" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="itemTs" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RewriteXiaohua/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RewriteXiaohua/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RewriteXiaohua/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#194#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RunRewriteXiaohua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RewriteXiaohua/spiders/xiaohua.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
