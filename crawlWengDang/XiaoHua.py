@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+import datetime
+StartTime = datetime.datetime.now()
 url = "http://m.xiaohuar.com/wap-1-2075.html"
 test = requests.get(url)
 test.encoding = "utf-8"
@@ -19,3 +21,6 @@ for a in temps:
             print(str(count) + ".jpg 保存成功")
         except:
             print("无法打开网址")
+
+EndTime = datetime.datetime.now()
+print(EndTime-StartTime)
