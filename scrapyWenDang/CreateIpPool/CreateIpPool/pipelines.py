@@ -5,7 +5,10 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
+import os
+class CreateippoolPipeline(object):
 
-class RewritexiaohuaPipeline(object):
     def process_item(self, item, spider):
+        baseDir = os.getcwd()
+        open(baseDir+'/data/IpPool.txt','a').write(item['address']+"\n")
         return item
